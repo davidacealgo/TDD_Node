@@ -1,0 +1,14 @@
+{
+  "name": "codebreaker",
+  "version": "1.0.0",
+  "main": "codeBreaker.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
